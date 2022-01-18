@@ -4,10 +4,10 @@ body{
 }
 
 h1{
-	font-family: cursive;
+    font-family: cursive;
     padding: 1em;
-	background-color: skyblue;
-	text-align: center;
+    background-color: skyblue;
+    text-align: center;
     color: brown;
     margin: 0;
 }
