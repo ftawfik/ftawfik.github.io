@@ -1,1 +1,72 @@
+/* CSS DOCUMENT */ 
+body{
+    font-family: helvetica;
+}
 
+h1{
+	font-family: cursive;
+    padding: 1em;
+	background-color: skyblue;
+	text-align: center;
+    color: brown;
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+    color: brown;
+    margin-bottom:1em;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 0em;
+    background-color: brown;
+    padding: 1em;
+    color: white;
+}
+
+ul {
+    margin: 1em;
+    padding: 1em;  
+}
+
+li{
+    padding: 0;
+    margin: 0;
+    list-style: none;  
+}
+
+h4{
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+p{
+    text-align: center;
+    font-weight: 300;
+    margin: 0.25em;
+}
+
+.price {
+    font-weight: 100;
+    font-size: 0.9em;
+}
+
+.appetizers {
+    background-color: azure;
+}
+
+.entrees{
+    background-color: bisque;
+}
+
+.salads{
+    background-color: lightgreen;
+}
+
+.dessert
+{
+    background-color: pink;
+}
