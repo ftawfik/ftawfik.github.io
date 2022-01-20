@@ -4,26 +4,26 @@ body{
 }
 
 h1{
-    font-family: cursive;
+	font-family: cursive;
     padding: 1em;
-    background-color: skyblue;
-    text-align: center;
-    color: brown;
+	background-color: #87ceeb;
+	text-align: center;
+    color: #a5292a;
     margin: 0;
 }
 
 h2{
     text-align: center;
-    color: brown;
+    color: #a5292a;
     margin-bottom:1em;
 }
 
 h3 {
     text-align: center;
     margin-bottom: 0em;
-    background-color: brown;
+    background-color: #a5292a;
     padding: 1em;
-    color: white;
+    color: #ffffff;
 }
 
 ul {
@@ -51,22 +51,22 @@ p{
 
 .price {
     font-weight: 100;
-    font-size: 0.9em;
+    font-size: 0.9em
 }
 
 .appetizers {
-    background-color: azure;
+    background-color: #f0ffff;
 }
 
 .entrees{
-    background-color: bisque;
+    background-color: #ffe4c5;
 }
 
 .salads{
-    background-color: lightgreen;
+    background-color: #90ee90;
 }
 
 .dessert
 {
-    background-color: pink;
+    background-color: #fec0ca;
 }
