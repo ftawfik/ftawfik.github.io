@@ -108,7 +108,7 @@ figure {
 main {  
     display: grid;  
     grid-template-columns: 50% auto;  
-    column-gap: 0.5;  
+    column-gap: 0.25em;  
     padding: 1em;  
 }  
 
