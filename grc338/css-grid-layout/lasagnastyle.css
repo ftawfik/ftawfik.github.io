@@ -101,7 +101,7 @@ header {
 figure {  
     display: grid;  
     grid-template-columns: 4fr 1fr;  
-    column-gap: 0.5em;  
+    column-gap: 0.75em;  
 }  
 
 
@@ -109,7 +109,7 @@ main {
     display: grid;  
     grid-template-columns: 1fr 1fr;  
     column-gap: 0.25em;  
-    padding: 1em;  
+    padding: 2em;  
 }  
 
 
