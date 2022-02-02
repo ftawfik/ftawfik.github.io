@@ -45,7 +45,7 @@ h3 {
 	font-weight: 400;
 	font-style: normal;
 	color: #ff8802;
-	margin: 0.5em;
+	margin: 0.5em 0.5em 0.5em 0em;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
 }
@@ -88,7 +88,7 @@ p {
 
 
 div.container {  
-    max-width: 65em;  
+    max-width: 70em;  
     margin: auto;  
 }  
 
@@ -100,14 +100,14 @@ header {
 
 figure {  
     display: grid;  
-    grid-template-columns: 50em auto;  
-    column-gap: 1em;  
+    grid-template-columns: 4fr 1fr;  
+    column-gap: 0.5em;  
 }  
 
 
 main {  
     display: grid;  
-    grid-template-columns: 50% auto;  
+    grid-template-columns: 1fr 1fr;  
     column-gap: 0.25em;  
     padding: 1em;  
 }  
