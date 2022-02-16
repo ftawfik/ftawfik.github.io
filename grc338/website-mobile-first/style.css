@@ -1,0 +1,159 @@
+/*CSS DOCUMENT*/
+
+img {
+    width: 100%; 
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
+
+/* CSS DOCUMENT */ 
+body{
+    font-family: helvetica;
+}
+
+
+.grid2{
+ 
+    display: grid;
+    grid-template-columns: 1fr 1.18fr;  
+    column-gap: 0.25em;  
+}
+
+
+img{
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+.welcome{
+    
+    font-size: 2em;
+    
+}
+
+.review{
+    
+    font-size: 3em;
+    font-weight: 500;
+    color: rgb(255,210,0);
+}
+
+
+footer{
+    
+    margin-top: 10em;
+    padding: 0.5em;
+    background-color: rgb(55,255,25); 
+    text-align: left;
+    
+}
+
+footer p{
+    
+    text-align: left;
+    font-weight: 100;
+    font-size: 0.5em;
+    
+}
+
+figure{
+    
+    display: grid;
+    grid-template-columns: 1fr;  
+    column-gap: 1em;  
+    padding 0;
+    margin: 0
+    
+}
+
+figcaption{
+    padding: 1em;
+    margin: auto;
+    
+}
+
+
+nav{
+    background-color: rgb(55,255,25);
+    padding: 1em;
+    margin: auto;
+        
+    
+}
+
+nav ul{
+    padding: 0;
+    
+}
+
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 1em;
+    font-weight: 400;
+    text-transform: uppercase;   
+    
+    
+}
+
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(0,0,0);
+    
+    
+}
+
+h1{
+	font-family: cursive;
+    padding: 1em;
+    color: #a5292a;
+    margin: 0;
+    width: 40%;
+    margin: auto;
+}
+
+h3{ 
+    color: rgb(255,100,0);
+    background-color: rgb(200,255,200);
+    padding: 1em;
+    margin: 0;
+}
+
+h2 {
+    background-color: rgb(50,150,155);
+    padding: 1em;
+    color: #ffffff;
+    margin: 0;
+}
+
+ul {
+    margin: 1em;
+    padding: 1em;  
+}
+
+li{
+    padding: 0;
+    margin: 0;
+    list-style: none;  
+}
+
+h4{
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+p{
+    font-weight: 300;
+    margin: 0.25em;
+    padding: 0.5em;
+}
+
+.price {
+    font-weight: 100;
+    font-size: 0.9em
+}
+
