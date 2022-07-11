@@ -1,0 +1,105 @@
+/*CSS document*/
+
+body {
+    font-family: ofelia-text, sans-serif;
+    margin: 0;
+    font-size: 14px;
+}
+
+body h3{
+    
+    font-size: 16px;
+    font-weight: 600;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav{
+    padding: 1em;
+    margin: auto;
+}
+
+nav ul{
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 1em;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(0,0,0);  
+    font-family: operetta-12, serif;
+}
+
+section{
+    padding: 0;
+    margin: 0;
+}
+
+.mainstory{
+    background: #07020D;
+    padding: 1em;  
+    margin: 0;
+}
+
+.mainstory a{
+    color: rgb(255,255,255);
+    text-decoration: none;    
+}
+
+.other{
+    background: #784F41;
+    margin: 3em;
+}
+
+.other p{
+    padding: 0em 1em 1em 1em;
+}
+
+.other h3{
+    padding: 0.5em 1em 0em 1em;
+}
+.other a{
+    text-decoration: none;
+    color: rgb(255,255,255);
+}
+
+header h1{
+    width: 10em;
+    margin: auto;
+}
+
+.story{
+    padding: 1em;
+}
+
+.story figure{
+    margin-bottom: 2em;
+    margin-top: 2em;
+    
+}
+
+figcaption{
+    
+    font-size: 12px;
+}
